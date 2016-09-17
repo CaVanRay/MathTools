@@ -1,10 +1,15 @@
 # MathTools
 a handy terminal program to help with different aspects of math
 ***************************************************************
+
 First Entry: 09/17/2016
+
 Author: Cavan Theiss
+
 Software inventory:
+
 3 source code files -
+
                       DiviFinder.c -
                                     Finds all all numbers that the given integer can be evenly divided by.
                       coterms.c -
